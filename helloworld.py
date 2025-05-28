@@ -1,1 +1,6 @@
 print("hello world!")
+print("happy coding!")
+print("this is a test")
+print("this is a test2")
+print("this is a test3")
+print("this is a test4")
